@@ -9,6 +9,9 @@
     "build": "npm run build:frontend",
     "build:frontend": "cd frontend && npm run build"
   },
+  "engines": {
+    "node": "20.x"
+  },
   "dependencies": {
     "react": "19.0.0-rc-69d4b800-20241021",
     "react-dom": "19.0.0-rc-69d4b800-20241021",
