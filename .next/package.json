@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "next build",
+    "heroku-postbuild": "",
     "start": "next start",
     "lint": "next lint"
   },
